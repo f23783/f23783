@@ -16,11 +16,14 @@ Experimenting with threat hunting and incident response automation using Python 
 Learning Linux internals, network packet analysis, and system hardening techniques.
 
 🧰 Tools and Technologies
+
+
 🖥️ Security & Monitoring
 
 Security Onion, Splunk, Zeek, Suricata, Wazuh, Wireshark
 
 pfSense, Snort, Nmap, Tshark, ELK Stack
+
 
 🧩 Infrastructure & Virtualization
 
@@ -33,6 +36,7 @@ VLANs, WireGuard VPN, Firewall Rules, Network Segmentation
 Python, FastAPI, Bash, n8n, Node.js
 
 Custom scripts for log parsing, alert enrichment, and response actions
+
 
 🧪 Home-Lab Architecture Overview
 
@@ -50,11 +54,13 @@ Segregated Gaming and Server VLANs
 
 Automated packet capture and traffic replay scenarios
 
+
 📂 Featured Projects
 
 🔍 Network Threat Simulation Lab
 Automated traffic generation and detection workflows using Zeek + Suricata + Splunk.
 Tools: Python, Security Onion, pfSense.
+
 
 🧠 SOC Automation Framework
 A modular FastAPI + n8n setup for integrating alerts, creating incident tickets, and triggering automated responses.
