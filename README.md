@@ -1,4 +1,4 @@
-🛡️ Arda Fidancı – SOC Engineer | Cybersecurity Enthusiast
+🛡️ Arda Fidancı – SOC Analyst Candidate | Cybersecurity Student
 
 Hello, I’m Arda Fidancı, a Software Engineering student at Ostim Teknik University, Ankara, pursuing a career in Cybersecurity — particularly in Security Operations and Threat Analysis.
 My main focus is building a deep, hands-on understanding of network defense, intrusion detection, automation, and system monitoring using both enterprise-grade and open-source technologies.
@@ -73,3 +73,16 @@ Custom Python/Bash tools for analyzing PCAPs, DNS queries, and HTTP payloads for
 
 B.Sc. in Software Engineering
 Ostim Teknik University, Ankara (2023–Present)
+
+🔐 Areas of Interest
+
+**Digital Security & Identity Verification**
+**Cryptography & PKI Fundamentals**
+**Authentication Systems**
+**Linux Security (Ubuntu, Pardus)**
+
+📚 Currently Learning
+
+C++ for system-level security applications
+Public Key Infrastructure (PKI)
+Digital signature standards and implementations
