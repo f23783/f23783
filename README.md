@@ -1,88 +1,60 @@
-🛡️ Arda Fidancı – SOC Analyst Candidate | Cybersecurity Student
+# Hi there, I'm Arda Fidancı 👋
 
-Hello, I’m Arda Fidancı, a Software Engineering student at Ostim Teknik University, Ankara, pursuing a career in Cybersecurity — particularly in Security Operations and Threat Analysis.
-My main focus is building a deep, hands-on understanding of network defense, intrusion detection, automation, and system monitoring using both enterprise-grade and open-source technologies.
+### 👨‍💻 Cybersecurity Enthusiast | Building & Breaking Things
 
-🧠 Current Focus
+I am a Sophomore **Software Engineering** student at **Ostim Technical University**. I combine my development background with a passion for Blue Teaming and SOC operations. My goal is not just to write code, but to understand how to secure the infrastructure it runs on.
 
-Developing a fully functional home SOC lab for learning and experimentation.
+---
 
-Integrating Security Onion, Splunk, Zeek, and Suricata for log analysis, alert correlation, and packet inspection.
+### 🚀 What I'm Up To
+* 🛡️ **Exploring SOC:** Currently migrated my HomeLab to **Splunk** for advanced log analysis and monitoring.
+* 🎓 **Certification:** Actively preparing for the **CompTIA Security+** exam.
+* 🐧 **Linux Ricing:** Building a custom **Hyprland** environment from scratch using **QT** and **Quickshell** on a VM.
+* 💻 **Web Dev:** Experienced in building real-time apps with **Node.js**.
 
-Using pfSense as a firewall and gateway with VLAN segmentation and VPN tunneling for realistic traffic scenarios.
+---
 
-Experimenting with threat hunting and incident response automation using Python scripts and n8n workflows.
+### 🛠️ Arsenal & Tech Stack
 
-Learning Linux internals, network packet analysis, and system hardening techniques.
+**Security & Operations**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-🧰 Tools and Technologies
+**Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
+---
 
-🖥️ Security & Monitoring
+### 📂 Featured Writeups & Projects
 
-Security Onion, Splunk, Zeek, Suricata, Wazuh, Wireshark
+| Project / Writeup | Description | Tech |
+| :--- | :--- | :--- |
+| **HomeLab SOC** | Monitoring environment setup for threat detection. | `Splunk` `Virtualization` |
+| **PhishNet Sherlock** | Detailed analysis of a phishing scenario (Blue Team). | `Email Analysis` `MHA` |
+| **Chat App** | Real-time messaging application. | `Node.js`|
 
-pfSense, Snort, Nmap, Tshark, ELK Stack
+---
 
+### ⚡ Fun Fact
+When I'm not analyzing logs or coding, I spend hours customizing my Linux desktop environment. If it works out of the box, I probably broke it to make it look better! 🎨
 
-🧩 Infrastructure & Virtualization
+---
 
-Proxmox, Docker, Ubuntu Server, Arch Linux
+### 🔗 Connect with Me
 
-VLANs, WireGuard VPN, Firewall Rules, Network Segmentation
+<p align="left">
+<a href="https://www.linkedin.com/in/arda-fidanc%C4%B1-50a0a9305/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://app.hackthebox.com/users/2467755" target="blank"><img align="center" src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="hackthebox" /></a>
+<a href="https://tryhackme.com/p/fidoarda003" target="blank"><img align="center" src="https://img.shields.io/badge/TryHackMe-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="tryhackme" /></a>
+</p>
 
-⚙️ Automation & Development
+---
 
-Python, FastAPI, Bash, n8n, Node.js
-
-Custom scripts for log parsing, alert enrichment, and response actions
-
-
-🧪 Home-Lab Architecture Overview
-
-Proxmox Server hosting:
-
-Security Onion (SIEM)
-
-pfSense (Firewall/Router)
-
-Splunk Core + Zeek/Suricata sensors
-
-Ubuntu Server for automation and testing
-
-Segregated Gaming and Server VLANs
-
-Automated packet capture and traffic replay scenarios
-
-
-📂 Featured Projects
-
-🔍 Network Threat Simulation Lab
-Automated traffic generation and detection workflows using Zeek + Suricata + Splunk.
-Tools: Python, Security Onion, pfSense.
-
-
-🧠 SOC Automation Framework
-A modular FastAPI + n8n setup for integrating alerts, creating incident tickets, and triggering automated responses.
-Focus: Threat intelligence enrichment, alert prioritization.
-
-📡 Network Forensics Scripts
-Custom Python/Bash tools for analyzing PCAPs, DNS queries, and HTTP payloads for IOCs.
-
-🎓 Education
-
-B.Sc. in Software Engineering
-Ostim Teknik University, Ankara (2023–Present)
-
-🔐 Areas of Interest
-
-**Digital Security & Identity Verification**
-**Cryptography & PKI Fundamentals**
-**Authentication Systems**
-**Linux Security (Ubuntu, Pardus)**
-
-📚 Currently Learning
-
-C++ for system-level security applications
-Public Key Infrastructure (PKI)
-Digital signature standards and implementations
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=f23783&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="f23783 github stats" />
+</p>
