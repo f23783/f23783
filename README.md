@@ -7,16 +7,16 @@ I am a Sophomore **Software Engineering** student at **Ostim Technical Universit
 ---
 
 ### 🚀 What I'm Up To
-* 🛡️ **Exploring SOC:** Currently migrated my HomeLab to **Splunk** for advanced log analysis and monitoring.
+* 🛡️ **Exploring SOC:** Successfully deployed a hybrid **Wazuh** SIEM/EDR lab, defending against a real brute-force attack.
 * 🎓 **Certification:** Actively preparing for the **CompTIA Security+** exam.
 * 🐧 **Linux Ricing:** Building a custom **Hyprland** environment from scratch using **QT** and **Quickshell** on a VM.
-* 💻 **Web Dev:** Experienced in building real-time apps with **Node.js**.
 
 ---
 
 ### 🛠️ Arsenal & Tech Stack
 
 **Security & Operations**
+![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=flat-square&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -34,6 +34,7 @@ I am a Sophomore **Software Engineering** student at **Ostim Technical Universit
 
 | Project / Writeup | Description | Tech |
 | :--- | :--- | :--- |
+| **Wazuh SOC Lab** | Hybrid SIEM setup (Local + Cloud) over Tailscale. | `Wazuh` `Tailscale` |
 | **HomeLab SOC** | Monitoring environment setup for threat detection. | `Splunk` `Virtualization` |
 | **PhishNet Sherlock** | Detailed analysis of a phishing scenario (Blue Team). | `Email Analysis` `MHA` |
 | **Chat App** | Real-time messaging application. | `Node.js`|
