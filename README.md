@@ -1,61 +1,20 @@
-# Hi there, I'm Arda Fidancı 👋
+### Arda Fidancı — Blue Team / SOC
 
-### 👨‍💻 Cybersecurity Enthusiast | Building & Breaking Things
+Software Engineering student (3rd year) at Ostim Technical University, Ankara.
+I build and break my own infrastructure to learn how attacks show up in logs and how networks are defended.
 
-I am a Sophomore **Software Engineering** student at **Ostim Technical University**. I combine my development background with a passion for Blue Teaming and SOC operations. My goal is not just to write code, but to understand how to secure the infrastructure it runs on.
+- 🛡️ **Experience:** Network Security intern at Türk Telekom (Jun 2026)
+- 🔭 **Now:** running a segmented home network (OPNsense, 5 VLANs, MFA VPN). Next up: Wazuh, Suricata and Zeek on top of it
+- 🤖 **Interested in:** AI-assisted detection. Correlated alerts go in, an LLM proposes severity and ATT&CK mapping, and a human decides. The model never acts on its own
+- 🧰 **Tools:** Wazuh · Splunk · Sysmon · Suricata · Zeek · OPNsense · Proxmox · Linux · Python · Bash
 
----
+#### Featured work
 
-### 🚀 What I'm Up To
-* 🛡️ **Exploring SOC:** Successfully deployed a hybrid **Wazuh** SIEM/EDR lab, defending against a real brute-force attack.
-* 🎓 **Certification:** Actively preparing for the **CompTIA Security+** exam.
-* 🐧 **Linux Ricing:** Building a custom **Hyprland** environment from scratch using **QT** and **Quickshell** on a VM.
+| Project | What it shows |
+|---|---|
+| [segmented-soc-homelab](https://github.com/f23783/segmented-soc-homelab) | Network design from scratch: VLAN segmentation, default-deny firewall, a management plane reachable only through VPN, a tested break-glass path, and write-ups of real incidents |
+| [wazuh-soc-homelab](https://github.com/f23783/wazuh-soc-homelab) | Wazuh SIEM/EDR watching a cloud VPS over Tailscale. It caught and blocked a real brute-force attack |
+| [edr-detection-lab](https://github.com/f23783/edr-detection-lab) | Sysmon + Splunk + Atomic Red Team: simulate a technique, find it in the logs, write the detection (MITRE ATT&CK mapped) |
+| [security-writeups](https://github.com/f23783/security-writeups) | HackTheBox Sherlock investigations (DFIR, phishing, log analysis), focused on how I got to the answer, not just the flag |
 
----
-
-### 🛠️ Arsenal & Tech Stack
-
-**Security & Operations**
-![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=flat-square&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-
----
-
-### 📂 Featured Writeups & Projects
-
-| Project / Writeup | Description | Tech |
-| :--- | :--- | :--- |
-| **Wazuh SOC Lab** | Hybrid SIEM setup (Local + Cloud) over Tailscale. | `Wazuh` `Tailscale` |
-| **HomeLab SOC** | Monitoring environment setup for threat detection. | `Splunk` `Virtualization` |
-| **PhishNet Sherlock** | Detailed analysis of a phishing scenario (Blue Team). | `Email Analysis` `MHA` |
-| **Chat App** | Real-time messaging application. | `Node.js`|
-
----
-
-### ⚡ Fun Fact
-When I'm not analyzing logs or coding, I spend hours customizing my Linux desktop environment. If it works out of the box, I probably broke it to make it look better! 🎨
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/arda-fidanc%C4%B1-50a0a9305/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://app.hackthebox.com/users/2467755" target="blank"><img align="center" src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="hackthebox" /></a>
-<a href="https://tryhackme.com/p/fidoarda003" target="blank"><img align="center" src="https://img.shields.io/badge/TryHackMe-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="tryhackme" /></a>
-</p>
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=f23783&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="f23783 github stats" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/arda-fidanc%C4%B1-50a0a9305/) · [HackTheBox](https://app.hackthebox.com/users/2467755) · [TryHackMe](https://tryhackme.com/p/fidoarda003)
