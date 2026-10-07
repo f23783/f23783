@@ -13,6 +13,7 @@ I build and break my own infrastructure to learn how attacks show up in logs and
 | Project | What it shows |
 |---|---|
 | [segmented-soc-homelab](https://github.com/f23783/segmented-soc-homelab) | Network design from scratch: VLAN segmentation, default-deny firewall, a management plane reachable only through VPN, a tested break-glass path, and write-ups of real incidents |
+| [atlas-live](https://github.com/f23783/atlas-live) · [atlas-ios](https://github.com/f23783/atlas-ios) | Speech-to-speech voice agent on the Gemini Live API (desktop and native iPhone). Tool calling, a 34-case Turkish evaluation set (97% end-to-end), and design decisions made from measurements |
 | [wazuh-soc-homelab](https://github.com/f23783/wazuh-soc-homelab) | Wazuh SIEM/EDR watching a cloud VPS over Tailscale. It caught and blocked a real brute-force attack |
 | [edr-detection-lab](https://github.com/f23783/edr-detection-lab) | Sysmon + Splunk + Atomic Red Team: simulate a technique, find it in the logs, write the detection (MITRE ATT&CK mapped) |
 | [security-writeups](https://github.com/f23783/security-writeups) | HackTheBox Sherlock investigations (DFIR, phishing, log analysis), focused on how I got to the answer, not just the flag |
